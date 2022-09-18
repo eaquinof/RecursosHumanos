@@ -65,6 +65,8 @@ ng serve -o
 ```
 
 ## Recursos
+[CORE UI](https://github.com/coreui/coreui-angular.git)
+
 [Mamba UI](https://mambaui.com/components)
 
 [Tailwind CSS](https://tailwindcss.com/docs/guides/angular)
